@@ -3,7 +3,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizandro-carvalho-72724029a/)
 
 Sou um jovem entusiasta em tecnologia Pentest e desenvolvimento de Software 
-Atualmente me dedicando ao desenvolvimento backend em Node.js. Busco solidificar meus conhecimentos em algoritmos e estruturas de dados utilizando Java e em hacking.
+Atualmente me dedicando ao desenvolvimento backend em Node.js e php. Busco solidificar meus conhecimentos em algoritmos e estruturas de dados utilizando Java e em hacking.
+
 
 <!---
 https://www.linkedin.com/in/rizandro-carvalho-72724029a/
