@@ -6,8 +6,9 @@
 Sou um jovem entusiasta em tecnologia Pentest e desenvolvimento de Software 
 Atualmente me dedicando ao desenvolvimento backend em Node.js e php. Busco solidificar meus conhecimentos em algoritmos e estruturas de dados utilizando Java e em hacking.
 
+### Github Stats
 ![Rizandro De Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizandrodev&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizandrodev&layout=compact&show_icons=true&theme=radical)
 
 <!---
 https://www.linkedin.com/in/rizandro-carvalho-72724029a/
