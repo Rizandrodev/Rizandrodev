@@ -8,6 +8,7 @@ Atualmente me dedicando ao desenvolvimento backend em Node.js e php. Busco solid
 
 ### Github Stats
 ![Rizandro De Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizandrodev&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizandrodev&layout=compact&show_icons=true&theme=radical)
 
 <!---
