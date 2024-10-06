@@ -3,8 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizandro-carvalho-72724029a/)
 
 
-Sou um jovem entusiasta em tecnologia Pentest e desenvolvimento de Software 
-Atualmente me dedicando ao desenvolvimento backend em Node.js. Busco solidificar meus conhecimentos em algoritmos e estruturas de dados utilizando Java e em hacking.
+Sou um jovem entusiasta de tecnologia com foco em Pentest e desenvolvimento de software. Atualmente, estou me dedicando ao desenvolvimento backend com Node.js e buscando aprimorar minhas habilidades em hacking e segurança
 
 ### Github Stats
 ![Rizandro De Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizandrodev&show_icons=true&theme=radical)
