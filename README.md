@@ -5,11 +5,9 @@
 
 ---
 
-### Sobre mim
+### About me
 
-Gosto de tecnologia, especialmente **Pentest** e **desenvolvimento de software**. Busco sempre aprender mais!
-Sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos no mundo da tecnologia!
-
+I like technology, especially Pentest and software development. I’m always looking to learn more!
 ---
 
 ### 📊 GitHub Stats
