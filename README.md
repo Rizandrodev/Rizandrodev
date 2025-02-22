@@ -7,8 +7,7 @@
 
 ### Sobre mim
 
-Sou um jovem entusiasta de tecnologia com foco em **Pentest** e **desenvolvimento de software**. Atualmente, estou me dedicando ao **desenvolvimento backend com Node.js**, além de buscar aprimorar minhas habilidades em **hacking** e **segurança cibernética**.
-
+Gosto de tecnologia, especialmente **Pentest** e **desenvolvimento de software**. Busco sempre aprender mais!
 Sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos no mundo da tecnologia!
 
 ---
@@ -16,7 +15,6 @@ Sempre em busca de novos desafios e oportunidades para expandir meus conheciment
 ### 📊 GitHub Stats
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rizandrodev&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizandrodev&layout=compact&show_icons=true&theme=radical" />
 </div>
 
