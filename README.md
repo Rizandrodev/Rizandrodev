@@ -10,6 +10,53 @@
 I like technology, especially Pentest and software development. I’m always looking to learn more!
 ---
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">Languages & Frameworks</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,spring,nodejs,nestjs,html,css,tailwind,react,vite,md" />
+  </a>
+</p>
+<p align="center">Databases </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres,supabase,sqlite" />
+  </a>
+</p>
+<p align="center">SO</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  </a>
+</p>
+<p align="center">DevOps & Tools</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,github," />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+
+<a href="https://www.linkedin.com/in/andrehrf/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+  </ul>
+</div>
+
+
+
 ### 📊 GitHub Stats
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
