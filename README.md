@@ -22,7 +22,7 @@ I like technology, especially Pentest and software development. I’m always loo
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css,py,c,tailwind,react,vite,md" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" style="width: 30px; height: 30px;" />
   </a>
 </p>
 <p align="center">Databases </p>
