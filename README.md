@@ -21,19 +21,13 @@ I like technology, especially Pentest and software development. I’m always loo
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,spring,nodejs,nestjs,html,css,tailwind,react,vite,md" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css,tailwind,react,vite,md" />
   </a>
 </p>
 <p align="center">Databases </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres,supabase,sqlite" />
-  </a>
-</p>
-<p align="center">SO</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres,supabase,sqlite" />
   </a>
 </p>
 <p align="center">DevOps & Tools</p>
