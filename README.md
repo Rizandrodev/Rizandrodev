@@ -22,6 +22,7 @@ I like technology, especially Pentest and software development. I’m always loo
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css,py,c,tailwind,react,vite,md" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   </a>
 </p>
 <p align="center">Databases </p>
