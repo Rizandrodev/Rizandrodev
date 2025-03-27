@@ -21,7 +21,7 @@ I like technology, especially Pentest and software development. I’m always loo
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css,py,c,tailwind,react,vite,md" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css,py,c,tailwind,react,vite,md,express,reactnative" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" style="width: 50px; height: 50px;" />
   </a>
 </p>
