@@ -9,48 +9,6 @@
 
 I like technology, especially Pentest and software development. I’m always looking to learn more!
 ---
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">Languages & Frameworks</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css,py,c,tailwind,react,vite,md,express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" style="width: 50px; height: 50px;" />
-  </a>
-</p>
-<p align="center">Databases </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres,supabase,sqlite" />
-  </a>
-</p>
-<p align="center">DevOps & Tools</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,github," />
-  </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-
-</p>
-
-  </ul>
-</div>
-
-
-
 ### 📊 GitHub Stats
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
