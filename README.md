@@ -36,12 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Rizandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizandrodev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizandrodev&layout=compact&theme=radical)
-
----
 
 <!---
 Rizandrodev/Rizandrodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
