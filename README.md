@@ -10,7 +10,7 @@
 
 - 🔐 Passionate about **Pentesting** and **API Security**
 - 💻 Backend: **Java**, **Node.js**, **PostgreSQL**
-- 🌍 From Angola 🇦🇴 | 🎯 Bug bounty hunter in progress
+- 🌍 From Angola 🇦🇴 | 🎯 Bug bounty hunter | api hacking
 
 ---
 
